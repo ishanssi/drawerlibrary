@@ -1,0 +1,3 @@
+rootProject.name = "My Application 22"
+include ':app'
+include ':mydrawerlibrary'
